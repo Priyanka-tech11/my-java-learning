@@ -42,4 +42,5 @@ class Interface1 {
                obj4.getArea();
 
         }
+
 }
